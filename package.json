@@ -1,7 +1,7 @@
 {
   "name": "mikroformat",
   "description": "MikroFormat helps you convert and format between different formats",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mikael Vesavuori",
   "license": "MIT",
   "main": "./lib/index.js",

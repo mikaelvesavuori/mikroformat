@@ -2,7 +2,13 @@
 
 **MikroFormat helps you convert and format between different formats.**
 
-TODO badges
+![Build Status](https://github.com/mikaelvesavuori/mikroformat/workflows/main/badge.svg)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mikaelvesavuori_mikroformat&metric=alert_status)](https://sonarcloud.io/dashboard?id=mikaelvesavuori_mikroformat)
+
+[![codecov](https://codecov.io/gh/mikaelvesavuori/mikroformat/graph/badge.svg?token=NPJPK5Q9G0)](https://codecov.io/gh/mikaelvesavuori/mikroformat)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/ae4f141ea30453da8826/maintainability)](https://codeclimate.com/github/mikaelvesavuori/mikroformat/maintainability)
 
 ---
 
@@ -19,7 +25,7 @@ MikroFormat helps you convert and format between different formats, for example 
 
 ```typescript
 // ES5 format
-//const { MikroFormat } = require('mikroformat');
+const { MikroFormat } = require('mikroformat');
 
 // ES6 format
 import { MikroFormat } from 'mikroformat';
